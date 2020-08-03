@@ -1,0 +1,57 @@
+[{
+  "type" : "regular",
+  "response" : {
+    "repositories" : [
+      {
+        "id" : "2",
+        "name" : "Rep2",
+        "description" : ""
+      }
+    ],
+    "ip" : "192.168.0.1",
+    "uuid" : "123e4567-e89b-12d3-a456-426655440000",
+    "repositoryID" : "2",
+    "score" : "2130",
+    "total" : "322",
+    "severityInfo" : "110",
+    "severityLow" : "7",
+    "severityMedium" : "41",
+    "severityHigh" : "152",
+    "severityCritical" : "12",
+    "macAddress" : "00:00:00:00:00:00",
+    "policyName" : "",
+    "pluginSet" : "",
+    "netbiosName" : "TARGET\\WIN7X64",
+    "dnsName" : "win7x64.target.domain.com",
+    "osCPE" : "cpe:\/o:microsoft:windows_7::gold:x64-ultimate",
+    "biosGUID" : "",
+    "tpmID" : "",
+    "mcafeeGUID" : "",
+    "lastAuthRun" : "",
+    "lastUnauthRun" : "",
+    "severityAll" : "12,152,41,7,110",
+    "os" : "Microsoft Windows 7 Ultimate",
+    "hasPassive" : "No",
+    "hasCompliance" : "No",
+    "lastScan" : "1408294249",
+    "links" : [
+      {
+        "name" : "SANS",
+        "link" : "https:\/\/isc.sans.edu\/ipinfo.html?ip=192.168.0.1"
+      },
+      {
+        "name" : "ARIN",
+        "link" : "http:\/\/whois.arin.net\/rest\/ip\/192.168.0.1"
+      }
+    ],
+    "repository" : {
+      "id" : "2",
+      "name" : "Rep2",
+      "description" : ""
+    }
+  },
+  "error_code" : 0,
+  "error_msg" : "",
+  "warnings" : [],
+  "timestamp" : 1409848524
+}]
